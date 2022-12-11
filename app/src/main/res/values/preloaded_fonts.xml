@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/atma_medium</item>
+        <item>@font/calligraffitti</item>
+        <item>@font/covered_by_your_grace</item>
+        <item>@font/faster_one</item>
+    </array>
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/rk13"
+    tools:context=".page1">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="229dp"
+        android:layout_height="415dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.549"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.341"
+        app:srcCompat="@drawable/image_removebg_preview__1_" />
+
+    <Button
+        android:id="@+id/clogin"
+        android:layout_width="413dp"
+        android:layout_height="48dp"
+        android:text="Child Login"
+        android:textStyle="bold"
+        android:backgroundTint="#8BC34A"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.476"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.841" />
+
+    <Button
+        android:id="@+id/plogin"
+        android:layout_width="415dp"
+        android:layout_height="44dp"
+        android:text="Parent Login"
+        android:textStyle="bold"
+        android:backgroundTint="#EFB258"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.452"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.944" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="178dp"
+        android:layout_height="44dp"
+        android:text="Kid Guard"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.059" />
+</android.support.constraint.ConstraintLayout>

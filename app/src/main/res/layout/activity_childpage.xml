@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ct55"
+    tools:context=".childpage">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="256dp"
+        android:layout_height="417dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.235"
+        app:srcCompat="@drawable/image_removebg_preview__2_" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="324dp"
+        android:layout_height="219dp"
+
+        android:fontFamily="@font/covered_by_your_grace"
+        android:text="Your safety our priority"
+        android:textAlignment="center"
+        android:textColor="#FF5722"
+        android:textSize="45dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+</android.support.constraint.ConstraintLayout>

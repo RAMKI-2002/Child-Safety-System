@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Rama Kowshik/AndroidStudioProjects/ChildTracking/app/src/main/res/drawable-v24/history_list.xml" value="0.1145" />
+        <entry key="..\:/Users/Rama Kowshik/AndroidStudioProjects/ChildTracking/app/src/main/res/font/bilbo_swash_caps.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/Rama Kowshik/AndroidStudioProjects/ChildTracking/app/src/main/res/layout/activity_app_history.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rama Kowshik/AndroidStudioProjects/ChildTracking/app/src/main/res/layout/activity_app_setting.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rama Kowshik/AndroidStudioProjects/ChildTracking/app/src/main/res/layout/activity_block.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rama Kowshik/AndroidStudioProjects/ChildTracking/app/src/main/res/layout/activity_childpage.xml" value="0.2" />
+        <entry key="..\:/Users/Rama Kowshik/AndroidStudioProjects/ChildTracking/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/Rama Kowshik/AndroidStudioProjects/ChildTracking/app/src/main/res/layout/activity_login2.xml" value="0.264" />
+        <entry key="..\:/Users/Rama Kowshik/AndroidStudioProjects/ChildTracking/app/src/main/res/layout/activity_main.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Rama Kowshik/AndroidStudioProjects/ChildTracking/app/src/main/res/layout/activity_main2.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Rama Kowshik/AndroidStudioProjects/ChildTracking/app/src/main/res/layout/activity_map.xml" value="0.2" />
+        <entry key="..\:/Users/Rama Kowshik/AndroidStudioProjects/ChildTracking/app/src/main/res/layout/activity_page1.xml" value="0.264" />
+        <entry key="..\:/Users/Rama Kowshik/AndroidStudioProjects/ChildTracking/app/src/main/res/layout/activity_signup.xml" value="0.176" />
+        <entry key="..\:/Users/Rama Kowshik/AndroidStudioProjects/ChildTracking/app/src/main/res/layout/app_bar_main.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Rama Kowshik/AndroidStudioProjects/ChildTracking/app/src/main/res/layout/content_main.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Rama Kowshik/AndroidStudioProjects/ChildTracking/app/src/main/res/layout/fragment_gallery.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Rama Kowshik/AndroidStudioProjects/ChildTracking/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/Rama Kowshik/AndroidStudioProjects/ChildTracking/app/src/main/res/layout/fragment_slideshow.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Rama Kowshik/AndroidStudioProjects/ChildTracking/app/src/main/res/layout/history_view_row.xml" value="0.1" />
+        <entry key="..\:/Users/Rama Kowshik/AndroidStudioProjects/ChildTracking/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/Users/Rama Kowshik/AndroidStudioProjects/ChildTracking/app/src/main/res/layout/usage_stats.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Rama Kowshik/Downloads/ChildTracking1/ChildTracking/app/src/main/res/drawable-v24/edittextbackground.xml" value="0.227" />
+        <entry key="..\:/Users/Rama Kowshik/Downloads/ChildTracking1/ChildTracking/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/Rama Kowshik/Downloads/ChildTracking1/ChildTracking/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rama Kowshik/Downloads/ChildTracking1/ChildTracking/app/src/main/res/layout/activity_signup.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rama Kowshik/Downloads/ChildTracking1/ChildTracking/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

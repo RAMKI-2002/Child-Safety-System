@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">KidGuard</string>
+    <string name="open_app_usage_setting">Open Apps with usage access settings</string>
+    <string name="last_time_used">"Last time used: "</string>
+    <string name="time_span">"Time span: "</string>
+
+    <string name="display_order_text">Sort by:</string>
+    <string name="app_name_label">App</string>
+    <string name="last_time_used_label">Last time used</string>
+    <!-- label for usage time -->
+    <string name="usage_time_label">Usage time</string>
+    <string name="title_activity_navigationbar">Navigationbar</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="lang">Select Language</string>
+    <string name="hisDesc">turn on if you don\'t want see child\'s history</string>
+    <string name="historysettingtitle">Turn history on/off</string>
+    <string name="app_block_method">Choose how app should block</string>
+    <string name="unindesc">Check if you want to prevent kids from uninstalling this application</string>
+    <string name="uninstit">Prevent uninstalling</string>
+    <string name="shutDesc">Check if you want to stop controlling application using KiddieGuard</string>
+    <string name="shutTitle">Shutdown KiddieGuard</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="app_history">App History</string>
+    <string name="to">to</string>
+    <string name="historyTime" translatable="false">HH:MM:AA PM</string>
+    <string name="sec">sec</string>
+    <string name="mm">mm</string>
+    <string name="ss">ss</string>
+    <string name="h">h</string>
+    <string name="alerttitle">Accessibility Service</string>
+    <string name="perminfo">Allow this permission for us to give app actions</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="accessibility_service_name">KidGuard</string>
+    <string name="accessibility_service_description">Just for Test</string>
+    <string name="blocked">blocked</string>
+</resources>

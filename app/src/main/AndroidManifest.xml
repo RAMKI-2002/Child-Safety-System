@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.childtracking">
+
+    <uses-permission
+        android:name="android.permission.PACKAGE_USAGE_STATS"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/image_removebg_preview__1_"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ct11"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ChildTracking">
+        <activity
+            android:name=".Map"
+            android:exported="false" />
+        <activity
+            android:name=".childpage"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".page1"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".UsageStatsActivity"
+            android:exported="false" />
+        <activity android:name=".AppHistoryActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.ChildTracking.NoActionBar" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SignUPActivity"
+            android:exported="false"></activity>
+
+        <service
+            android:name=".SearchRunningApp2"
+            android:exported="true"
+            android:label="@string/accessibility_service_name"
+            android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE">
+            <intent-filter>
+                <action android:name="android.accessibilityservice.AccessibilityService" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.accessibilityservice"
+                android:resource="@xml/accessibilityservice" />
+        </service>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
